@@ -59,7 +59,7 @@ export const board: {
 /** The rotating "I am ___" headline. sticker keys map to drawings in Stickers.tsx */
 export const roles = [
   { text: 'a product manager', color: '#c2577f' },
-  { text: 'a software engineer', color: '#7a5bc4' },
+  { text: 'a developer', color: '#7a5bc4' },
   { text: 'obsessed with AI', color: '#d07a4a' },
 ] as const
 
