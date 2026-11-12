@@ -98,7 +98,7 @@ function Nav() {
       animate={{ opacity: 1, x: 0 }}
       transition={{ delay: 0.3, duration: 0.8, ease }}
     >
-      <p className="nav__label">Navigate ⌨︎</p>
+      <p className="nav__label">Press a key ⌨︎ or here, either way!</p>
       {sections.map((s) => (
         <Keycap
           key={s.id}
