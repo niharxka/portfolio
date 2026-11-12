@@ -115,7 +115,7 @@ export const experiences: {
 /** Blog posts. Leave empty to show the "coming soon" card. */
 export const blog: { posts: { title: string; date: string; blurb: string; href: string }[]; emptyNote: string } = {
   posts: [],
-  emptyNote: 'First posts coming soon: notes on building products, shipping code, and working with AI.',
+  emptyNote: 'First posts coming soon: catch me philosophizing and writing about building + student life.',
 }
 
 export const about = {
